@@ -1,2 +1,5 @@
-package com.gb.interview;public interface Shape {
+package com.gb.interview;
+
+public interface Shape {
+    void draw();
 }
