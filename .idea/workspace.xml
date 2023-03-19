@@ -5,26 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc75dac5-8466-47b8-8d8e-3453b56dfc63" name="Changes" comment="2/3 дз">
-      <change afterPath="$PROJECT_DIR$/codeoptimization/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codeoptimization/src/main/java/com/gb/interview/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codeoptimization/src/main/java/com/gb/interview/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codeoptimization/src/main/java/com/gb/interview/Ferrari.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codeoptimization/src/main/java/com/gb/interview/LightWeightCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codeoptimization/src/main/java/com/gb/interview/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codeoptimization/src/main/java/com/gb/interview/Movable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polymorphism/src/main/java/com/gb/interview/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polymorphism/src/main/java/com/gb/interview/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polymorphism/src/main/java/com/gb/interview/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/builder/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/builder/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/builder/src/main/java/personbuilder/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/builder/src/main/java/personbuilder/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/builder/src/main/java/personbuilder/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/builder/src/main/java/personbuilder/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/polymorphism/src/main/java/com/gb/interview/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/polymorphism/src/main/java/com/gb/interview/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/polymorphism/src/main/java/com/gb/interview/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/polymorphism/src/main/java/com/gb/interview/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/gb/interview/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gb/interview/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +59,14 @@
       <option name="presentableId" value="Default" />
       <updated>1679226202116</updated>
     </task>
+    <task id="LOCAL-00001" summary="2/3 дз">
+      <created>1679238639013</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679238639013</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
